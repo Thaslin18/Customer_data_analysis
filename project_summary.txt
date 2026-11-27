@@ -1,0 +1,5 @@
+Customer Data Analysis & Segmentation
+Purpose: Analyze synthetic customer spending, orders, loyalty tiers and regions, and group customers into simple segments.
+Tools: Python, Pandas, NumPy, Matplotlib, Jupyter Notebook, SQL.
+Included dataset, runnable script, notebook, SQL queries, README, and requirements.
+Run the analysis and review the generated outputs before claiming project completion.
